@@ -8,3 +8,7 @@
 a {
     color: blue;
 }
+
+body {
+  background: rgba(128, 0, 255, 0.5)
+}
